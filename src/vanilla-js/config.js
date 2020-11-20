@@ -1,13 +1,13 @@
 var config = {
     style: 'mapbox://styles/ur-dsl/ckcgckuxj0jbn1imn3fz03ct8',
-    accessToken: 'pk.eyJ1IjoidXItZHNsIiwiYSI6ImNqdGs3MHhxdDAwd2E0NHA2bmxoZjM1Y2IifQ.y1wfhup4U2U8KvHuOpFCng',
+    accessToken: 'pk.eyJ1IjoiYWJpY2UxMiIsImEiOiJja2hwa202emowOHlpMnNwMjJtZjZjYnp4In0.yl6kGQgKb_hRKxuiAi1i-Q',
     showMarkers: false,
     theme: 'dark',
     alignment: 'left',
-    title: 'Redlining Richmond',
-    subtitle: 'A look into redlining and its connections now',
-    byline: 'University of Richmond - Digital Scholarship Lab',
-    footer: 'Source: dsl.richmond.edu',
+    title: 'Mapping **The North Star**',
+    subtitle: 'A look into the coverage of **The North Star** in its first articles',
+    byline: 'Alex Bice - Digital Public Historian',
+    footer: 'Data from the Library of Congress Frederick Douglass Newspaper Collection',
     chapters: [
         {
             id: 'slug-style-id',
